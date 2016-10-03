@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Just4FunMedia.ca" resolutions="1x" timestamp="1475468345695">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Just4FunMedia.ca" resolutions="1x" timestamp="1475469449192">
   <folder name="css">
     <file name="site_global.css" crc="475923517"/>
-    <file name="generator.css" crc="4181903656" ref="generator"/>
-    <file name="contact-us.css" crc="3912592821" ref="contact-us"/>
-    <file name="index.css" crc="158930638" ref="index"/>
+    <file name="generator.css" crc="90118551" ref="generator"/>
+    <file name="contact-us.css" crc="142775697" ref="contact-us"/>
+    <file name="index.css" crc="4049443206" ref="index"/>
     <file name="iefonts_index.css" crc="311229161" ref="index"/>
-    <file name="light-table.css" crc="166324401" ref="light-table"/>
-    <file name="instructables.css" crc="239677460" ref="instructables"/>
-    <file name="media.css" crc="445498536" ref="media"/>
-    <file name="drone-services.css" crc="1590522" ref="drone-services"/>
+    <file name="light-table.css" crc="4255216991" ref="light-table"/>
+    <file name="instructables.css" crc="4217538300" ref="instructables"/>
+    <file name="media.css" crc="4235152337" ref="media"/>
+    <file name="drone-services.css" crc="446930377" ref="drone-services"/>
     <file name="iefonts_drone-services.css" crc="476518462" ref="drone-services"/>
-    <file name="gopro-case.css" crc="4073617358" ref="gopro-case"/>
-    <file name="dock.css" crc="4195082103" ref="dock"/>
+    <file name="gopro-case.css" crc="3988877653" ref="gopro-case"/>
+    <file name="dock.css" crc="244368451" ref="dock"/>
   </folder>
   <folder name="assets">
     <file name="fs3vk5li7w1u21x.jpg" crc="302131846" seo="true" mt="1472849538000"/>
@@ -113,14 +113,14 @@
     <file name="img_4339-crop-u21407.jpg" crc="3842041516" ref="contact-us"/>
     <file name="u21460-6.png" crc="88481314" ref="contact-us"/>
     <file name="u21452.png" crc="119612452" ref="contact-us"/>
-    <file name="u21452-r.png" crc="4149285732" ref="contact-us"/>
-    <file name="u21452-m.png" crc="4149285732" ref="contact-us"/>
+    <file name="u21452-r.png" crc="3782683335" ref="contact-us"/>
+    <file name="u21452-m.png" crc="3782683335" ref="contact-us"/>
     <file name="u21454.png" crc="15857459" ref="contact-us"/>
-    <file name="u21454-r.png" crc="209632346" ref="contact-us"/>
-    <file name="u21454-m.png" crc="209632346" ref="contact-us"/>
+    <file name="u21454-r.png" crc="388953827" ref="contact-us"/>
+    <file name="u21454-m.png" crc="388953827" ref="contact-us"/>
     <file name="u21456.png" crc="488511722" ref="contact-us"/>
-    <file name="u21456-r.png" crc="4050482156" ref="contact-us"/>
-    <file name="u21456-m.png" crc="4050482156" ref="contact-us"/>
+    <file name="u21456-r.png" crc="3803301612" ref="contact-us"/>
+    <file name="u21456-m.png" crc="3803301612" ref="contact-us"/>
     <file name="u21371-17.png" crc="38754976" ref="contact-us"/>
     <file name="u21371-17-r.png" crc="3762338742" ref="contact-us"/>
     <file name="u21371-17-m.png" crc="411266509" ref="contact-us"/>
@@ -129,14 +129,14 @@
     <file name="u23392-grad.png" crc="330122274" ref="instructables:generator:light-table:dock:gopro-case"/>
     <file name="u23444-6.png" crc="88481314" ref="instructables"/>
     <file name="u23436.png" crc="119612452" ref="instructables"/>
-    <file name="u23436-r.png" crc="4149285732" ref="instructables"/>
-    <file name="u23436-m.png" crc="4149285732" ref="instructables"/>
+    <file name="u23436-r.png" crc="3782683335" ref="instructables"/>
+    <file name="u23436-m.png" crc="3782683335" ref="instructables"/>
     <file name="u23438.png" crc="15857459" ref="instructables"/>
-    <file name="u23438-r.png" crc="209632346" ref="instructables"/>
-    <file name="u23438-m.png" crc="209632346" ref="instructables"/>
+    <file name="u23438-r.png" crc="388953827" ref="instructables"/>
+    <file name="u23438-m.png" crc="388953827" ref="instructables"/>
     <file name="u23440.png" crc="488511722" ref="instructables"/>
-    <file name="u23440-r.png" crc="4050482156" ref="instructables"/>
-    <file name="u23440-m.png" crc="4050482156" ref="instructables"/>
+    <file name="u23440-r.png" crc="3803301612" ref="instructables"/>
+    <file name="u23440-m.png" crc="3803301612" ref="instructables"/>
     <file name="u23367-6.png" crc="3858386803" ref="instructables"/>
     <file name="ftdzxspi4iwr7y2large-crop-u23388.jpg" crc="460747914" ref="instructables"/>
     <file name="u23650-grad.png" crc="3870209463" ref="generator:light-table:dock:gopro-case"/>
@@ -144,61 +144,65 @@
     <file name="f8d939yi4idb3jk-crop-u23663.jpg" crc="4290580291" ref="generator"/>
     <file name="u23716-6.png" crc="88481314" ref="generator"/>
     <file name="u23708.png" crc="119612452" ref="generator"/>
-    <file name="u23708-r.png" crc="4149285732" ref="generator"/>
-    <file name="u23708-m.png" crc="4149285732" ref="generator"/>
+    <file name="u23708-r.png" crc="3782683335" ref="generator"/>
+    <file name="u23708-m.png" crc="3782683335" ref="generator"/>
     <file name="u23710.png" crc="15857459" ref="generator"/>
-    <file name="u23710-r.png" crc="209632346" ref="generator"/>
-    <file name="u23710-m.png" crc="209632346" ref="generator"/>
+    <file name="u23710-r.png" crc="388953827" ref="generator"/>
+    <file name="u23710-m.png" crc="388953827" ref="generator"/>
     <file name="u23712.png" crc="488511722" ref="generator"/>
-    <file name="u23712-r.png" crc="4050482156" ref="generator"/>
-    <file name="u23712-m.png" crc="4050482156" ref="generator"/>
+    <file name="u23712-r.png" crc="3803301612" ref="generator"/>
+    <file name="u23712-m.png" crc="3803301612" ref="generator"/>
     <file name="fs3vk5li7w1u21x-crop-u23658.jpg" crc="405940770" ref="generator"/>
     <file name="u24163-6.png" crc="3858386803" ref="light-table"/>
     <file name="f8d939yi4idb3jk-crop-u23991.jpg" crc="4290580291" ref="light-table"/>
     <file name="u23925-6.png" crc="88481314" ref="light-table"/>
     <file name="u23993.png" crc="119612452" ref="light-table"/>
-    <file name="u23993-r.png" crc="4149285732" ref="light-table"/>
-    <file name="u23993-m.png" crc="4149285732" ref="light-table"/>
+    <file name="u23993-r.png" crc="3782683335" ref="light-table"/>
+    <file name="u23993-m.png" crc="3782683335" ref="light-table"/>
     <file name="u23977.png" crc="15857459" ref="light-table"/>
-    <file name="u23977-r.png" crc="209632346" ref="light-table"/>
-    <file name="u23977-m.png" crc="209632346" ref="light-table"/>
+    <file name="u23977-r.png" crc="388953827" ref="light-table"/>
+    <file name="u23977-m.png" crc="388953827" ref="light-table"/>
     <file name="u23979.png" crc="488511722" ref="light-table"/>
-    <file name="u23979-r.png" crc="4050482156" ref="light-table"/>
-    <file name="u23979-m.png" crc="4050482156" ref="light-table"/>
+    <file name="u23979-r.png" crc="3803301612" ref="light-table"/>
+    <file name="u23979-m.png" crc="3803301612" ref="light-table"/>
     <file name="u24420-6.png" crc="3858386803" ref="dock"/>
     <file name="f8d939yi4idb3jk-crop-u24276.jpg" crc="4290580291" ref="dock"/>
     <file name="u24223-6.png" crc="88481314" ref="dock"/>
     <file name="u24224.png" crc="119612452" ref="dock"/>
-    <file name="u24224-r.png" crc="4149285732" ref="dock"/>
-    <file name="u24224-m.png" crc="4149285732" ref="dock"/>
+    <file name="u24224-r.png" crc="3782683335" ref="dock"/>
+    <file name="u24224-m.png" crc="3782683335" ref="dock"/>
     <file name="u24274.png" crc="15857459" ref="dock"/>
-    <file name="u24274-r.png" crc="209632346" ref="dock"/>
-    <file name="u24274-m.png" crc="209632346" ref="dock"/>
+    <file name="u24274-r.png" crc="3964964024" ref="dock"/>
+    <file name="u24274-m.png" crc="3964964024" ref="dock"/>
     <file name="u24278.png" crc="488511722" ref="dock"/>
-    <file name="u24278-r.png" crc="4050482156" ref="dock"/>
-    <file name="u24278-m.png" crc="4050482156" ref="dock"/>
+    <file name="u24278-r.png" crc="3803301612" ref="dock"/>
+    <file name="u24278-m.png" crc="3803301612" ref="dock"/>
     <file name="fh369u2i4idb3oi-crop-u24427.jpg" crc="3764045522" ref="dock"/>
     <file name="u24679-6.png" crc="3858386803" ref="gopro-case"/>
     <file name="f8d939yi4idb3jk-crop-u24527.jpg" crc="4290580291" ref="gopro-case"/>
     <file name="u24521-6.png" crc="88481314" ref="gopro-case"/>
     <file name="u24523.png" crc="119612452" ref="gopro-case"/>
-    <file name="u24523-r.png" crc="4149285732" ref="gopro-case"/>
-    <file name="u24523-m.png" crc="4149285732" ref="gopro-case"/>
+    <file name="u24523-r.png" crc="3782683335" ref="gopro-case"/>
+    <file name="u24523-m.png" crc="3782683335" ref="gopro-case"/>
     <file name="u24472.png" crc="15857459" ref="gopro-case"/>
-    <file name="u24472-r.png" crc="209632346" ref="gopro-case"/>
-    <file name="u24472-m.png" crc="209632346" ref="gopro-case"/>
+    <file name="u24472-r.png" crc="388953827" ref="gopro-case"/>
+    <file name="u24472-m.png" crc="388953827" ref="gopro-case"/>
     <file name="u24525.png" crc="488511722" ref="gopro-case"/>
-    <file name="u24525-r.png" crc="4050482156" ref="gopro-case"/>
-    <file name="u24525-m.png" crc="4050482156" ref="gopro-case"/>
+    <file name="u24525-r.png" crc="3803301612" ref="gopro-case"/>
+    <file name="u24525-m.png" crc="3803301612" ref="gopro-case"/>
     <file name="ftdzxspi4iwr7y2large-crop-u24682.jpg" crc="4255283161" ref="gopro-case"/>
+    <file name="u27225-7.png" crc="4116231961" ref="generator"/>
+    <file name="u27248-7.png" crc="4116231961" ref="light-table"/>
+    <file name="u27271-7.png" crc="4116231961" ref="dock"/>
+    <file name="u27294-7.png" crc="4116231961" ref="gopro-case"/>
   </folder>
-  <file name="index.html" crc="4052507783" seo="true" mt="1475468318912" redirect="true"/>
-  <file name="media.html" crc="4000971263" seo="true" mt="1475468197917" redirect="true"/>
-  <file name="contact-us.html" crc="4019184118" seo="true" mt="1475468197920" redirect="true"/>
-  <file name="instructables.html" crc="359519912" seo="true" mt="1475468291121" redirect="true"/>
-  <file name="drone-services.html" crc="4278619222" seo="true" mt="1475468197918" redirect="true"/>
-  <file name="generator.html" crc="190133142" seo="true" mt="1475468203155" redirect="true"/>
-  <file name="light-table.html" crc="16404211" seo="true" mt="1475468255757" redirect="true"/>
-  <file name="gopro-case.html" crc="3973222144" seo="true" mt="1475468232217" redirect="true"/>
-  <file name="dock.html" crc="3837807994" seo="true" mt="1475468242827" redirect="true"/>
+  <file name="index.html" crc="3800190350" seo="true" mt="1475469362354" redirect="true"/>
+  <file name="media.html" crc="3911983881" seo="true" mt="1475469376443" redirect="true"/>
+  <file name="contact-us.html" crc="3841861737" seo="true" mt="1475469389538" redirect="true"/>
+  <file name="instructables.html" crc="3952207332" seo="true" mt="1475469354138" redirect="true"/>
+  <file name="drone-services.html" crc="3970700413" seo="true" mt="1475469345091" redirect="true"/>
+  <file name="generator.html" crc="4139540579" seo="true" mt="1475469399867" redirect="true"/>
+  <file name="light-table.html" crc="3899042692" seo="true" mt="1475469410179" redirect="true"/>
+  <file name="gopro-case.html" crc="4280450931" seo="true" mt="1475469429634" redirect="true"/>
+  <file name="dock.html" crc="351886837" seo="true" mt="1475469420380" redirect="true"/>
 </manifest>
