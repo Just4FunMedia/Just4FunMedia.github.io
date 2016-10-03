@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Just4FunMedia.ca" resolutions="1x" timestamp="1475466724338">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Just4FunMedia.ca" resolutions="1x" timestamp="1475467094094">
   <folder name="css">
     <file name="site_global.css" crc="475923517"/>
     <file name="generator.css" crc="450085819" ref="generator"/>
@@ -206,7 +206,7 @@
     <file name="u21371-17-m.png" crc="411266509" ref="contact-us"/>
     <file name="u21371-17-fs.png" crc="273416854" ref="contact-us"/>
   </folder>
-  <file name="index.html" crc="53296432" seo="true" mt="1475466667737" redirect="true"/>
+  <file name="index.html" crc="53296432" seo="true" mt="1475467085354" redirect="true"/>
   <file name="media.html" crc="128538992" seo="true" mt="1475466667731" redirect="true"/>
   <file name="contact-us.html" crc="175158427" seo="true" mt="1475466667746" redirect="true"/>
   <file name="instructables.html" crc="229858525" seo="true" mt="1475466667729" redirect="true"/>
